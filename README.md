@@ -32,8 +32,6 @@ git clone https://github.com/PlushBanshee/tortoise-tts.git
 
 cd tortoise-tts
 
-[From Requirements.txt delete all NUMBA entries and llvmlite entry. Then change NUMPY to 1.20.3 and SCIPY to 1.10.1]
-
 python -m pip install -r ./requirements.txt
 
 conda install numba
