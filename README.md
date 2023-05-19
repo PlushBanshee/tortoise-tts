@@ -44,3 +44,9 @@ open conda and type
 conda activate tortoise-tts
 cd anaconda3
 cd tortoise-tts
+
+This script allows you to speak a single phrase with one or more voices.
+python tortoise/do_tts.py --text "I'm going to speak this" --voice random --preset fast
+
+This script provides tools for reading large amounts of text.
+python tortoise/read.py --textfile <your text to be read> --voice random
