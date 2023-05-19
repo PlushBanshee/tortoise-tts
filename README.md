@@ -4,9 +4,11 @@ Tortoise is a text-to-speech program built with the following priorities:
 
 INSTALL GUIDE!
 
-Python 3.9 https://www.python.org/downloads/release/python-390/
-Anaconda https://www.anaconda.com/download
-Git https://gitforwindows.org/
+Python 3.9 - https://www.python.org/downloads/release/python-390/
+
+Anaconda - https://www.anaconda.com/download
+
+Git - https://gitforwindows.org/
 
 go to start and run anaconda prompt
 
